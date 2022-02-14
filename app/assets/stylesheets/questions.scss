@@ -1,0 +1,28 @@
+// Place all the styles related to the pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+input[type="text"] {
+  border-radius: 5px;
+  width: 400px;
+  height: 30px;
+}
+
+input[type="submit"] {
+  border-radius: 5px;
+  background-color: blue;
+  color: white;
+  font-size: bold;
+  margin: 0px;
+  height: 30px;
+}
+
+input {
+  height: 30px;
+}
+
+p {
+  border-left: solid #F4F4F4;
+  padding-left: 10px;
+  background-color: #f0dc5d;
+}
